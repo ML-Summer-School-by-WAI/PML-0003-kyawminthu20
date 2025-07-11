@@ -4,13 +4,9 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-opencv-python = "*"
-python-dotenv = "*"
-matplotlib = "*"
-imgviz = "*"
-labelme = "*"
 
 [dev-packages]
+ipykernel = "*"
 
 [requires]
 python_version = "3.10"
